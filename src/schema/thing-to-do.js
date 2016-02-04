@@ -11,7 +11,7 @@ import {
 } from 'graphql';
 
 const Location = new GraphQLObjectType({
-  name: 'PlaceOrEventLocation',
+  name: 'ThingToDoLocation',
   fields: () => ({
     name: {
       type: GraphQLString
@@ -28,8 +28,8 @@ const Location = new GraphQLObjectType({
   })
 });
 
-export const PlaceOrEvent = new GraphQLObjectType({
-  name: 'PlaceOrEvent',
+export const ThingToDo = new GraphQLObjectType({
+  name: 'ThingToDo',
   fields: () => ({
     id: {
       type: GraphQLID

@@ -6,7 +6,6 @@ import {
   GraphQLObjectType
 } from 'graphql';
 
-import {PlaceOrEvent} from './place-or-event'
 import {Nearby} from './nearby'
 
 const Query = new GraphQLObjectType({

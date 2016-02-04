@@ -8,7 +8,7 @@ import {
   GraphQLString
 } from 'graphql';
 
-import {PlaceOrEvent} from './place-or-event'
+import {ThingToDo} from './thing-to-do'
 import locationResultsStub from '../../stubs/nearby'
 
 export const Nearby = new GraphQLObjectType({
@@ -20,8 +20,8 @@ export const Nearby = new GraphQLObjectType({
     lng: {
       type: GraphQLFloat
     },
-    placesOrEvents: {
-      type: new GraphQLList(PlaceOrEvent),
+    thingsToDo: {
+      type: new GraphQLList(ThingToDo),
       resolve(parent, args) {
         return locationResultsStub.results
       }
