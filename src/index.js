@@ -6,7 +6,7 @@ import {Schema} from './schema'
 
 var app = express();
 
-app.use('/graphql', graphqlHTTP({ 
+app.use('/', graphqlHTTP({ 
 	schema: Schema, 
 	graphiql: true 
 }));

@@ -20,7 +20,8 @@
     "babel-register": "^6.4.3",
     "express": "^4.13.4",
     "express-graphql": "^0.4.5",
-    "graphql": "^0.4.14"
+    "graphql": "^0.4.14",
+    "lodash": "^4.2.1"
   },
   "devDependencies": {
     "babel-cli": "^6.4.5",

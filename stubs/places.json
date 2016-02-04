@@ -1,0 +1,546 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC-QAAAM5Hkmd7hh_babolyfOjoOxAsZzB1KiO9Ba44U6aqhzGEUH3m_JPMCtj4NMSNjfiT1WJYEn5XV1O6gdB71Kbkm4ttjZ6YjWmtc7jpeS1HTSSUKW8-s18i8CLVzSaZ3HgwLUtcG3_Og494vHbnGJTR0LcjA2TYHuetcvI7dFG_I40pd9AwijOpe7EAVsHav89zxjjwqB_yaJfq5UPXG9vgHWaTqgHwutm3mi2CEyNwhy7oM1vmU97neWz_b_crX24d1PgMWCNs98F8DfyDSXOi4x3xbpa97FvsB6GEj55yTQiTcAwGf7l72Tty3fXUvTfi9cuzNejDWV8ZlNejICfKD4SEIhCEsagm7WlGD7dXh4TnR0aFO0tHNf9wvnuPLC4nfr51VaGkBeJ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.92492399999999,
+               "lng" : -87.71144699999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0bbaecead74efc3ebd56528a56c97a5ae46ad312",
+         "name" : "Walgreens",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110049454100117122153/photos\"\u003eWalkertwo CHI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAL4keylKgH1dTQt80dLYCuR05at1sB1DEiJ2mFfcxvg6kJb9vwAaSc_JdW8B3lxF3zjHM53OPmf1s12h-hQ-OGq47USbtmQcGvSG8M-bAuEWBRSeGVhsCjYj14HKW8dl-EhBtTih_cNcqmX9iMOjd4jpwGhTf5UGZymecMJck1b0HeV0nY8ZhhA",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJ2yunaG7ND4gRSkpNdsRrMfI",
+         "price_level" : 2,
+         "reference" : "CmRdAAAAuS2l3SkPQoD5SCoeokdcPclJXU-88jakNOK6TuEVRlc6T_nUMMYHw4bYslY7PzA0rMm2bGX-3YI6pigImj93ow99NZc6o8Lp2jkNGN3tVVGjSsC6LLPLDlrpVWj74yzkEhC_uFi9L2rwqar1Pgg7ttxBGhQKeFl0SjU-TJ7GVrWTQhKZuoUZMQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "home_goods_store",
+            "electronics_store",
+            "health",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "3320 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9244494,
+               "lng" : -87.71103119999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e4cbe76edb2725a64733657cb184711e9bd6e468",
+         "name" : "Cafe Bella",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1344,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101449640369632886842/photos\"\u003eJackie Anderson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAieprGgP-DxXe-SjFollQfxF9fMgjhYSzMVlXzPGxlES8fyKwth14jS7NOLgV53dF6mEvLvwuFj8fMau1F20EZDGUNDhl8O2kXgOWZDGbJEOr0M3CrkKNYRm5Yr2HgK8TEhBmHkqnBBZcrfq7Fd47hVOqGhSUosZ-MKw2-a0EBQ47tp7RG6Wv7Q",
+               "width" : 760
+            }
+         ],
+         "place_id" : "ChIJw5vwXG7ND4gRg-YrOSU5Vro",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CmReAAAAKMLrMUQOAElAVAv9I7N5r1JEh2qUXUr6NMFI2lYtGBIZwEz_i7oUl-E9D5z_R1B7PfzNLR8PuY992RVuBwRqF50MGy0mF87wIynFAsl0waFrlBH37lonq7hbElcCF61UEhCNHNyhO0HuhvyOY5CwXQsoGhQ417p61DRZb-qUAIuU5NZFgHU4FQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3311 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9245398,
+               "lng" : -87.70393109999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "66326709c3bc19280a385072c1a5482644334924",
+         "name" : "Dill Pickle",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116953750844028738337/photos\"\u003eDill Pickle\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA-09JTD7xT27p_urgjzPWKq0IwmnbRLwypDUB7V8zDj-SXMgbdPNb86Bh-yyp5r2AtTcfxkC6ci7Je1NUlR0yyEdkKj03fDac7cLYHVmy8jpfUCis5CADyqX208mRMZ3kEhA7tTSiO9_9Fir-mBOXo7ZpGhQMvoAj5zoqiNIOZEMHHSozD8u3zw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJu0mi82TND4gRYQUGl3t1GYQ",
+         "rating" : 4,
+         "reference" : "CmRfAAAAYdJ_W0iPxE53v3OLUHTFTHPoVkgqVxDfEGKItqil1ceYhv_sVGdvhgbsx-51-SJA-P19hAoBFoFb_mAj2IsuyYdOPbYYIGGeslaCrUscwBf3_sSMDOWH0lw07opaaHyuEhDTHTnEJ3ehhG3pj-Le_ubnGhQ-d0JrX5V2ggRY7fwQgfNuXnvRhA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "3039 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9249246,
+               "lng" : -87.70856569999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "69fdab8146429ac0d0600ad7f58f80bea6fe92df",
+         "name" : "Whirlaway Lounge",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJJxcZmG_ND4gRwm9RpDqpkus",
+         "rating" : 4.6,
+         "reference" : "CnRkAAAAikW1XMysbHw-6vIPdFiWMHQSpT7710tleF2qDCEwnHNDRa5I4kkJEcSXAQWele3cfxRtqvoIr2H7uXAcbZWmLqTitW2ryJsS1ZOkyCGXGE0GwDgUfwAPlcRxfJzzEs0uerrcV-HsKIGAefXFHc577RIQE0EhHKwfJUNahGdjsPgVABoU2hOIvnbKV2yXJTmRBr82GJ6RVFU",
+         "scope" : "GOOGLE",
+         "types" : [ "night_club", "bar", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3224 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.924852,
+               "lng" : -87.710472
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "028a067df8c00b6c91b0229a28fdc379e9bca007",
+         "name" : "Big Tony's Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101114280087351574726/photos\"\u003eBig Tony&#39;s Pizza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA9-d4FfKDBbNgKCooL8umFqIsx2UoL5VnriHaB1o7tahV8ByiyDCHP4RvrkcAdVSFYwbvcYOVuHuDl1kBK7uCYxELeQG5VnmSkQb3nOgUHWJnXWc4NTlWwPeCcpOnYLNWEhB714OMcc9Epw-0DwBYFWTeGhTaaSvL3Q5gAjFzvp1scMInN2hXMQ",
+               "width" : 366
+            }
+         ],
+         "place_id" : "ChIJjWJ1UG7ND4gRlzH139wJFL0",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "CnRkAAAASoR7VhybvVWgTqFb6eVxJ5VBJUqsIdOLVzNAM3FQ4jP_ZiqjI4pdIwDib-U3KiNd6-TwfgI3DxIrG0apXm5PwuiKwb2xLqJkDIDaX_3jhhkCxKPkLU8_YiNh08AgtuPaCQ5E0_SmX0QyhmOPu8c-shIQhRnCwFiHzhaaH1o61a_hYBoUFZwbcqgJUVzWFXjRwuJU3ca7Wpc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "3276 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9249043,
+               "lng" : -87.71101829999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "24c17679d9dcdb12bda60397c88ff05b1a685247",
+         "name" : "Rotisserie's Restaurant",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 306,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103851522082229426875/photos\"\u003eRotisserie&#39;s Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAS49rQNQihMOIx9g6NYy5gd-ef9T7WwPv2EjdeRxRGRp__ys838gBpHtG8mOHCgOdE84JuDy4b-pV1unUWcFxaUi7QDY90D1WSK_J7KNyHDtP89zSeEMDRIoX6_QxF4LJEhBA1Fy0-UrjoffOmHrys3AsGhT2Leni5s-rUDz6g57S7WvqDW02Xw",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJg92ZXG7ND4gRd0VPOUlZM78",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CnRrAAAAgXZRucFu8TV0zJ7ot48vLHBWazY1ZV9oauTslzwjeK-T2Ni2zIwVUspNF0g3yPk5McwNRycDwNVxQL0Nlh0z8z42dpX1GSRM0bKn0nlkxAgJtOEaUGVmB2Ot8PfHTMCuiU3oWIHchgH0Jz2hqId39BIQYFkI1RRZLAlRM9Obmrz8eBoU65FM2tIA2FvYARbldE0jtbH1QXY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3300 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.92491999999999,
+               "lng" : -87.7090446
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "db567feeee24f2a995d4d47b765c5131440239c3",
+         "name" : "El Rinconcito Cubano",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJywXru2_ND4gRuF9u5FOrREU",
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "CnRnAAAAXRo_BMkPr4S5CTYLaA-QSq2X7BliCnYfSv-koOCoxI25OkY92_BENrIrgh_SADr7WvlPmMrcL-EPds_H9iX194v_K3SsockjEUEwbFJKBozGwK4yVxswsaKsID-HKkKfUXkU5MVoWHek579LWy7NORIQGxZWarTs6NhgaaidU-jTNBoU1kGHZrizqZ0GcV-8KWT-2kDusIM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3238 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9266982,
+               "lng" : -87.7089682
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1623ff85db22877ffc1071b061ddbe9b3a3fd73f",
+         "name" : "Altgeld Sawyer Corner Farm",
+         "place_id" : "ChIJF3NEJ3DND4gRqqLN4SklCx0",
+         "reference" : "CnRtAAAAiP2e9yhwc27EA2blWe_A1Aedc0maq0qUlXh46Tt05tH9p3DE2xcovFSCjreEaRmHod_uCFlehQf7g83EwbYuf2OepyUp11eVJ1bv3fQLBmVYS2zIGqE9W31RtEOqubmQPViwJqNYTlEiJBj7SiB2YhIQli0OyRhvlS9Pj3COVhZeRBoUSk8YQTImAwtLvIhw7KR14fxbhck",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2501 North Sawyer Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.920861,
+               "lng" : -87.7122531
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "43897aa4955e2df89bef13ba4d5de8fac7c1ddf6",
+         "name" : "Brisa Foods",
+         "photos" : [
+            {
+               "height" : 1265,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113397661177589201231/photos\"\u003eMarjan Agicic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAhtqAckKstfIR15NYrQnCZVMZdDhzjbWklDiUW-Oro53Tn0pVxNj4u62360nc01tIQEpEcSKFspYLoWFTZS6TH1-78lY0a7nlzJXt_EfNJBoL47XWeOk5Zjhc48km2UAnEhC8s1rJ4wNtubeLyZM9YZa8GhQMKGouCWRVWTg7XonZdSQi7GVSRg",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJeboNWWnND4gRUxP6imLqJ8M",
+         "reference" : "CmRfAAAAKK4qxmqeOpS5jz2dVQCJAKTpwQ67Y2K7pY59o3eNyXgLSPG08I1Cbr6LAEjgoXC7EUwZVJVJvRCrmaap9SmAG5l6keTgBJ3xLsOQcQ-VFlXYF5Eyavc7dqXCAb2NyCGsEhB4-UNjp1s4U1ovOdfusCrUGhTrrWMSXuA8CyCntVF9JKxLttGi4Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2156 North Kimball Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.924931,
+               "lng" : -87.70440599999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "81a31d1637cd4e65d3cd66a200c975ed0c514c5a",
+         "name" : "Albany Food & Liquor",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJyQeo5WTND4gRNYo_ozpV2Cw",
+         "reference" : "CnRnAAAAlOgV0w8UNvKgYCFU-yk5-NtbL5j36x9CPQX-wDFUCY4QpPbt6rXaVDx2jmFz1hCwlKUgmA_NJ7JhT5sOkFCUWVax8BgDChAAlf7wykTssadsqfKA62HiKr0lrP0PIpeMMETMZ9utk3sxHXTGrnYrVBIQTe4NbNoXS2mv37DIcE-4vRoU0FmBxSkQkiikGKZAIFflTpnBRcM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "liquor_store",
+            "convenience_store",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "3048 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9248488,
+               "lng" : -87.7123903
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "82a837e47a0a0383dc44405beb51e0dff77b24d6",
+         "name" : "Moneil Foods & Liquors",
+         "photos" : [
+            {
+               "height" : 1530,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115360659513428024599/photos\"\u003eshaileshkumar patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAQEZSe7OwK1XdW05qvzza_eWveLJGXcPENRZQFeq6S7c_U_nsZ0KQE6wxvorEYjheX-hAeolRd5_O1_SXRrpu5nvgWy0bWTpxIxsTSUtN8-LDheh4gUnI-JU7Eee8RfrNEhBF3QpMcVC9gh6rMM4s3CA2GhRutDZss-KzWttwAuNCTec_arc-cQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJT5lUeG7ND4gR5HURixLpPlw",
+         "reference" : "CnRpAAAA-TY50X-jTKoU88rtNUg6N05IJ7pa54MwwryEDgambd9NbRNnlMKhrZYYxBSRCGqzOOK_1iA0iFEx4H4muinfej_ie8pHKhCnF6D3MR5zg90-6x5Ys_Tyzf_OAz2T3xLOWuHPbkj-BPJjfnf5LhQbJhIQ5zXxNOZDs64i7K05ilMr0BoUVawMJVopZR6g3AELwEjAo_PK4hc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "3402 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.924465,
+               "lng" : -87.71478999999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2186f4fb4b4081db784192d5955956623ec2e9db",
+         "name" : "Festa Pizza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJb3qkAG3ND4gRZ-WG7L9c2iI",
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "CmReAAAAOXHrglPu8PiICHaTHXe55C0vyRMgyPeasgJHBKDzP8NObOLajss1VC252SyCYwoUgsmg8IiWpI2vojuZRwZhnzKQbBKX2aLNIRyrwPaF9N-dhWam-GPE1EAKYqApveL_EhCQGtosKADkVTJNHSDyO0j9GhTyfLP18oBfVcAgJ6QqkocR42HuXw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "3525 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.92112300000001,
+               "lng" : -87.71229199999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ebdff015b32a1234a5a187d3ba8c52698ae50142",
+         "name" : "Punta Cana Restaurant",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJTalX_WvND4gRs5NPMPBTA64",
+         "rating" : 4.6,
+         "reference" : "CnRpAAAAF6VB1-7WGcWAwQD_1J7BQD6iEXywtDyMMgrXNJ_biQ7JpFi9OkEz5Fn3YHs6naOciEDOu_7a1jC8skfAeLFqOQ0AijhlrNI5pRbg-4rDupBvspayVg2HdMXoqtoWjdOklxGqrMLyU0g86oLjV3B8mhIQ3D8cD-KYzus4CPUheI9GeBoUde50PF299_wAmzpBxlRNNakLxxU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2200 North Kimball Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.92449680000001,
+               "lng" : -87.7147715
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5414e44236871b4312004f8e34bf3d75de2c09f7",
+         "name" : "Paper Moon Bakery",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 483,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108536175987582563856/photos\"\u003eAna The Baker\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAvUQTKd1IwUDmhCYvgsiL4XrWFgQvvW4mIfMeJLeyrGrA1fCEeEi0CMPYaUAuY-p-cZzGUCEjBSGyj5aB9079HwVtXpPh2UUFqtrqy2jQXFHcOfj7uvcf0OFMY-_5JqeiEhDJ4P-dMQez5uUlDX5ilubSGhSZniolSnK8DENOQ9KwiXB0k1F1Fg",
+               "width" : 857
+            }
+         ],
+         "place_id" : "ChIJQXO8qm3ND4gRTH-7w_8eWY0",
+         "reference" : "CnRlAAAAVLWmg0XCqfK1vw7GOeuwJxMNWRc_U_N3m2UvGd0t8_bRC6X2aKIBlpSTU67Xf1j_-uhEXmxd07b69UZaOyBDF9JXlwt1M0NMJQSeonbEVIB7j-gebvqnBp5q5Lrx2UifVEaH-8A_N77FdInHFHP7pxIQJF5-TBnVABiUHLhO_yg9xhoUumE06afiC-syB_OWvyRgBP26TwY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "clothing_store",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "3523 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.92748599999999,
+               "lng" : -87.704302
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "501029068afb33d88498facce9f4ad1d21a3ae39",
+         "name" : "Web In Front Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcwsBJXvND4gR52roqWGCQwM",
+         "reference" : "CnRjAAAApqCnrXooAD2WggEC_t7Cm833r6t2UDKYZh2qzzOedwg4CTbqERIPiISwUNQrUFBvkdrkgLjyQ-J4tmfxwR6xxv_wD05pLPIFXQG2CMv2zOR4jEV_QkmHVIuSYuIv5ttrfjReH8jusP8mdDx_gnH2rxIQFaEXtJ-8W1lAkhWq0toyNBoUhzALWkVDi8RtJSWduK_4kXcBSFs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2531 North Milwaukee Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9248317,
+               "lng" : -87.7123076
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "eec7fcddbe9b7c761a8d4255a3f57a492b7ff0c1",
+         "name" : "Sabor Latino",
+         "place_id" : "ChIJz8wjeG7ND4gRrz8GeLN84E0",
+         "price_level" : 1,
+         "reference" : "CmRfAAAAEr6H3-C6KOLVPi6zvlHFB1DJ_Me3MW1g0gU18nmn3gC9c_zKs_QUcmWvIWcj_KMFMpPKpR8xpRfhg-ByvvDTjKJZFyzjLqG9aDGDovyKXjAGbT4BDN6endJQcf8rZnpQEhBptmnjjDC8M3SqrxAJnGcFGhSPEwUMsSJcQMyF7ohpyLwCsZBgRA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3400 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9193461,
+               "lng" : -87.7054787
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "da598e2468e2b6ee648cafcee75dc5c9f3cec1cb",
+         "name" : "Magic food Catering",
+         "photos" : [
+            {
+               "height" : 210,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113820634379606151624/photos\"\u003eMagic food Catering\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAPvxt7krQGcDdpy29N8TygC7vt6OaQ6bUxAbVGdEP-YjmP6AkZetVjNrWY3IH36RD6XdwerK2O0L2qFpOZa2N0oAsv9qmUitavV5Qc5cAAsXWyJLTJMtNmnraUiqVfOnIEhCdadPMdbPuj2wdYVTL-_PEGhQSVcFv9fOh5fYQoe9NCJwHSj-Atg",
+               "width" : 210
+            }
+         ],
+         "place_id" : "ChIJXVV3U2bND4gRGyhiP5Y7T9Q",
+         "reference" : "CnRnAAAA-ecfQwU5bTch9x9okb5WsTLdS0CuaBMVEjCNadJIuq9RbN61fHahD-3wNp6qEZaKFFRV_2Gl39A2Wql_SwniCo2LQKrQuJkSY7YR7Opa4ZUh9pO96o0e1ZNgQIthilZjuyAPiFLSyVAuMUO0TcE-IxIQTr3mfAiA78nBbX-APkK1VRoUh6DWsa1HTplwp0kxd8gv7x5KzMo",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3108 West Dickens Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9235187,
+               "lng" : -87.71225849999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "623c2bed60328449cd0b619a4b24768c29f79fb0",
+         "name" : "Kimball Medill Corner Farm",
+         "place_id" : "ChIJ36xpg27ND4gRxtGz186DljA",
+         "reference" : "CnRtAAAAVErjRP14K0Q91YYs2ZWoZCnKaWVQH0RKFq86rREGkMxeBHmiqvN2fu4p-6WVLri0mnN7vL5R76ALhFSqAFXeHwGlcps9LcuWAKq1btAm6M5Ekve_joPE07kpF1le21t4nhs6IPvoudi4gMuUIDKtfhIQOpYAks-cr95__57lC-9r9RoUsOUs4IgQ3QndbVr51sRUDM7Iukw",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "vicinity" : "2324 North Kimball Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.92446040000001,
+               "lng" : -87.7140503
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d10e995066c62aa73d1c6634d1d51c41c0be7883",
+         "name" : "Marcela's",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJy1zNs23ND4gRD4v6TOL5HbY",
+         "rating" : 4.9,
+         "reference" : "CmRdAAAABP4kSMJ834e7coDRin-lUdCFUJAdDzUYyZLcLhg10gBIL8o23ssBQW25PCn_3R3fnEpTaPEP2PfvX-DQBvIFluORztbK8XweE_5Vhecuu1pvRgDYc_barxnVdAKcSpT1EhAKTq2s5X0Zd7O8Q5V-RCG-GhSjWnruyVsx8HIeH9AAFrr0PsuG4g",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3503 West Fullerton Avenue, Chicago"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.92492499999999,
+               "lng" : -87.710201
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "895a9388f8064be7e8652f39673d4879eb96ae30",
+         "name" : "Casa Yari",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJGz39TW7ND4gR_apb6Ds31rQ",
+         "rating" : 4.6,
+         "reference" : "CmRdAAAAfkO_6Jk6e50ETLxFdRzIcmfB8ksNFcnWANiiFYB0RvPuiu2sHBxODmFLSv2nqW0jEa0ePyqQvqV0CxxyDf3X9O_jJg4Ye5RP-N-TFNVX43mGH3Ul8F7Cc84noAJX6YeiEhA4Jmy4AOm0ShhD7cMh_P5NGhQuy6IUFybm7-bqkn50fkR2GQnPEw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3268 West Fullerton Avenue, Chicago"
+      }
+   ],
+   "status" : "OK"
+}

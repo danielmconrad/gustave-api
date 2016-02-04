@@ -1,0 +1,11 @@
+{
+	"google": {
+		"places": {
+			"key": "AIzaSyAWTu50XTuFgoJA_hP01jTwqUKOvNPrF58",
+			"photos": {
+				"maxwidth": 1000,
+				"url": "https://maps.googleapis.com/maps/api/place/photo"
+			}
+		}
+	}
+}
