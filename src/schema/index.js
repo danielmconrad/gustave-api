@@ -2,17 +2,19 @@
 
 import {
   GraphQLFloat,
+  GraphQLList,
   GraphQLSchema,
   GraphQLObjectType
 } from 'graphql';
 
-import {Nearby} from './nearby'
+import {ThingToDo} from './thing-to-do'
+import locationResultsStub from '../../stubs/nearby'
 
 const Query = new GraphQLObjectType({
   name: 'Query',
   fields: () => ({
     nearby: {
-      type: Nearby,
+      type: new GraphQLList(ThingToDo),
       args: {
         lat: {
           name: 'lat',
@@ -24,10 +26,7 @@ const Query = new GraphQLObjectType({
         }
       },
       resolve(parent, args) {
-        return {
-          lat: args.lat,
-          lng: args.lng
-        }
+        return locationResultsStub.results
       }
     }
   })

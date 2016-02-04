@@ -1,7 +1,5 @@
 'use strict';
 
-import url from 'url';
-
 import {
   GraphQLFloat,
   GraphQLID,
@@ -10,23 +8,7 @@ import {
   GraphQLString
 } from 'graphql';
 
-const Location = new GraphQLObjectType({
-  name: 'ThingToDoLocation',
-  fields: () => ({
-    name: {
-      type: GraphQLString
-    },
-    address: {
-      type: GraphQLString
-    },
-    lat: {
-      type: GraphQLFloat
-    },
-    lng: {
-      type: GraphQLFloat
-    }
-  })
-});
+import {Location} from './location';
 
 export const ThingToDo = new GraphQLObjectType({
   name: 'ThingToDo',
