@@ -18,8 +18,6 @@ const _roundToDecimal = function roundToDecimal(num, dec) {
 		1: 10km cluster
 		2: 1km cluster
 		3: 100m cluster
-		4: 10m cluster
-		5: 1m cluster
 
 		Default: 2
 
@@ -43,15 +41,19 @@ export const nearby = function nearby(lat, long, options) {
 		let types = config.google.places.nearby.types.join('|');
 
 		// Precision clusters users 
-		let precision = (options && options.precision) || 3;
+		let precision = (options && options.precision) || 2;
+		precision = Math.round(Math.min(Math.max(precision, 1), 3)); // whole numbers between 1 and 3
+
 		lat = _roundToDecimal(lat, precision);
 		long = _roundToDecimal(long, precision);
 
 		// Radius in meters
 		let radius = (options && options.radius) || 2.5 * 100000 / Math.pow(10, precision);
+		radius = Math.round(radius); // whole numbers
 
 		let url = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${lat},${long}&radius=${radius}&types=${types}&key=${key}`;
 
+		return console.log(url);
 		request(url, (error, response, body) => {
 
 			if (error) {
@@ -66,9 +68,4 @@ export const nearby = function nearby(lat, long, options) {
 	return promise;
 
 };
-
-// Test
-// nearby(41.9180100, -87.696058087).then((res) => {
-// 	console.log(res);
-// }).catch((err) => console.log(err));
 
