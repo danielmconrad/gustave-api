@@ -28,7 +28,7 @@ const _roundToDecimal = function roundToDecimal(num, dec) {
 */
 export const nearby = function nearby(lat, long, options) {
 
-	var promise = new Promise((resolve, reject) => {
+	let promise = new Promise((resolve, reject) => {
 
 		let key = config.google.places.key;
 		let types = config.google.places.types.join('|');
