@@ -3,7 +3,7 @@ import request from 'request';
 import config from '../../config.json';
 
 // Helper function for decimal rounding
-const _roundToDecimal = function roundToDecimal(num, dec) {
+const _roundToDecimal = function (num, dec) {
 	let m = Math.pow(10, dec);
 	return Math.round(num * m)/m;
 }
@@ -25,7 +25,7 @@ const _roundToDecimal = function roundToDecimal(num, dec) {
 		1..50,000
 		Default: 1000
 */
-export const nearby = function nearby(lat, long, options) {
+export const nearby = function (lat, long, options) {
 
 	let promise = new Promise((resolve, reject) => {
 
