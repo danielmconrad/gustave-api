@@ -1,4 +1,3 @@
-import https from 'https';
 import request from 'request';
 
 import config from '../../config.json';
