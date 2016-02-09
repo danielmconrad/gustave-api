@@ -1,26 +1,26 @@
 {
-	"google": {
-		"places": {
-			"key": "AIzaSyAWTu50XTuFgoJA_hP01jTwqUKOvNPrF58",
-			"photos": {
-				"maxwidth": 1000,
-				"url": "https://maps.googleapis.com/maps/api/place/photo"
-			},
-			"types" : [
-				"amusement_park",
-				"aquarium",
-				"art_gallery",
-				"bar",
-				"bowling_alley",
-				"cafe",
-				"movie_theater",
-				"museum",
-				"night_club",
-				"park",
-				"restaurant",
-				"stadium",
-				"zoo"
-			]
-		}
-	}
+  "google": {
+    "places": {
+      "key": "AIzaSyAWTu50XTuFgoJA_hP01jTwqUKOvNPrF58",
+      "photos": {
+        "maxwidth": 1000,
+        "url": "https://maps.googleapis.com/maps/api/place/photo"
+      },
+      "types" : [
+        "amusement_park",
+        "aquarium",
+        "art_gallery",
+        "bar",
+        "bowling_alley",
+        "cafe",
+        "movie_theater",
+        "museum",
+        "night_club",
+        "park",
+        "restaurant",
+        "stadium",
+        "zoo"
+      ]
+    }
+  }
 }

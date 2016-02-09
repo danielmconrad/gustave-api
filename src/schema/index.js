@@ -7,7 +7,7 @@ import {
   GraphQLObjectType
 } from 'graphql';
 
-import {ThingToDo} from './thing-to-do'
+import {ThingToDoType} from './thing-to-do'
 import locationResultsStub from '../../stubs/nearby'
 
 const Query = new GraphQLObjectType({

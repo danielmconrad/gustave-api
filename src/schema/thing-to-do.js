@@ -8,9 +8,26 @@ import {
   GraphQLString
 } from 'graphql';
 
-import {Location} from './location';
+export const ThingToDoLocationType = new GraphQLObjectType({
+  name: 'ThingToDoLocation',
+  fields: () => ({
+    name: {
+      type: GraphQLString
+    },
+    address: {
+      type: GraphQLString
+    },
+    lat: {
+      type: GraphQLFloat
+    },
+    lng: {
+      type: GraphQLFloat
+    }
+  })
+});
 
-export const ThingToDo = new GraphQLObjectType({
+
+export const ThingToDoType = new GraphQLObjectType({
   name: 'ThingToDo',
   fields: () => ({
     id: {
@@ -23,7 +40,8 @@ export const ThingToDo = new GraphQLObjectType({
       type: GraphQLString
     },
     location: {
-      type: Location
+      type: ThingToDoLocationType
     }
   })
 });
+

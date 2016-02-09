@@ -21,6 +21,7 @@
     "express": "^4.13.4",
     "express-graphql": "^0.4.5",
     "graphql": "^0.4.14",
+    "graphql-relay": "^0.3.6",
     "lodash": "^4.2.1",
     "request": "^2.69.0"
   },

@@ -1,33 +1,33 @@
 {
-	"results": [{
-		"id": "jh26j3h-b63jhb2353-685976213dkas",
-		"title": "Food at Cafe Bella",
-		"image": "https://lh5.googleusercontent.com/-N03HyigqaVI/VNoyn5VHiYI/AAAAAAAAABA/iah6wurqHeE/s1600-w1000/",
-		"location": {
-			"name": "Cafe Bella",
-			"address": "3311 West Fullerton Avenue, Chicago",
-			"lat": 41.9244494,
-			"lng": -87.7110312
-		}
-	},{
-		"id": "028a067df8-c00b6c91b0229a2-8fdc379e9bca007",
-		"title": "Get some grub at Big Tony's Pizza",
-		"image": "https://lh3.googleusercontent.com/-WkC039MkndQ/VXoEpIg0QzI/AAAAAAAAABc/YneLsnCgJ-U/s1600-w366/",
-		"location": {
-			"name": "Big Tony's Pizza",
-			"address": "3276 West Fullerton Avenue, Chicago",
-			"lat": 41.924852,
-			"lng": -87.710472
-		}
-	},{
-		"id": "ksjdnv-2398u123f0-1248989235n",
-		"title": "Fill up at the Paper Moon Bakery",
-		"image": "https://lh4.googleusercontent.com/-qp4SoGS8FSk/U1hvLtmrSlI/AAAAAAAABOI/9KIbpBzT_N8/s1600-w857/",
-		"location": {
-			"name": "Paper Moon Bakery",
-			"address": "3523 West Fullerton Avenue, Chicago",
-			"lat" : 41.92449680000001,
-			"lng" : -87.7147715
-		}
-	}]
+  "results": [{
+    "id": "jh26j3h-b63jhb2353-685976213dkas",
+    "title": "Food at Cafe Bella",
+    "image": "https://lh5.googleusercontent.com/-N03HyigqaVI/VNoyn5VHiYI/AAAAAAAAABA/iah6wurqHeE/s1600-w1000/",
+    "location": {
+      "name": "Cafe Bella",
+      "address": "3311 West Fullerton Avenue, Chicago",
+      "lat": 41.9244494,
+      "lng": -87.7110312
+    }
+  },{
+    "id": "028a067df8-c00b6c91b0229a2-8fdc379e9bca007",
+    "title": "Get some grub at Big Tony's Pizza",
+    "image": "https://lh3.googleusercontent.com/-WkC039MkndQ/VXoEpIg0QzI/AAAAAAAAABc/YneLsnCgJ-U/s1600-w366/",
+    "location": {
+      "name": "Big Tony's Pizza",
+      "address": "3276 West Fullerton Avenue, Chicago",
+      "lat": 41.924852,
+      "lng": -87.710472
+    }
+  },{
+    "id": "ksjdnv-2398u123f0-1248989235n",
+    "title": "Fill up at the Paper Moon Bakery",
+    "image": "https://lh4.googleusercontent.com/-qp4SoGS8FSk/U1hvLtmrSlI/AAAAAAAABOI/9KIbpBzT_N8/s1600-w857/",
+    "location": {
+      "name": "Paper Moon Bakery",
+      "address": "3523 West Fullerton Avenue, Chicago",
+      "lat" : 41.92449680000001,
+      "lng" : -87.7147715
+    }
+  }]
 }
