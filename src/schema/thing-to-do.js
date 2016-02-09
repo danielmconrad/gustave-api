@@ -8,9 +8,27 @@ import {
   GraphQLString
 } from 'graphql';
 
-export const ThingToDoLocationType = new GraphQLObjectType({
+import {
+  fromGlobalId,
+  globalIdField,
+  nodeDefinitions,
+  toGlobalId
+} from 'graphql-relay-js';
+
+var {nodeInterface, nodeField} = nodeDefinitions(
+  (globalId) => {
+    var {type, id} = fromGlobalId(globalId);
+    return data[type][id];
+  },
+  (obj) => {
+    return obj.ships ? factionType : shipType;
+  }
+);
+
+var ThingToDoLocationType = new GraphQLObjectType({
   name: 'ThingToDoLocation',
   fields: () => ({
+    id: globalIdField(),
     name: {
       type: GraphQLString
     },
@@ -23,16 +41,14 @@ export const ThingToDoLocationType = new GraphQLObjectType({
     lng: {
       type: GraphQLFloat
     }
-  })
+  }),
+  interfaces: [nodeInterface]
 });
 
-
-export const ThingToDoType = new GraphQLObjectType({
+var ThingToDoType = new GraphQLObjectType({
   name: 'ThingToDo',
   fields: () => ({
-    id: {
-      type: GraphQLID
-    },
+    id: globalIdField(),
     title: {
       type: GraphQLString
     },
@@ -44,4 +60,3 @@ export const ThingToDoType = new GraphQLObjectType({
     }
   })
 });
-

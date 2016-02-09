@@ -3,35 +3,77 @@
 import {
   GraphQLFloat,
   GraphQLList,
+  GraphQLObjectType,
   GraphQLSchema,
-  GraphQLObjectType
+  GraphQLString
 } from 'graphql';
 
-import {ThingToDoType} from './thing-to-do'
-import locationResultsStub from '../../stubs/nearby'
+import {
+  fromGlobalId,
+  globalIdField,
+  nodeDefinitions,
+  toGlobalId
+} from 'graphql-relay';
 
-const Query = new GraphQLObjectType({
+import * as _ from 'lodash';
+import locationResultsStub from '../../stubs/nearby';
+
+var {nodeInterface, nodeField} = nodeDefinitions(
+  (globalId) => {
+    var {type, id} = fromGlobalId(globalId);
+    return _.find(locationResultsStub[type], {id:id});
+  },
+  (obj) => {
+    return obj.lat ? ThingToDoLocationType : ThingToDoType;
+  }
+);
+
+var ThingToDoLocationType = new GraphQLObjectType({
+  name: 'ThingToDoLocation',
+  fields: () => ({
+    id: globalIdField(),
+    name: {type: GraphQLString},
+    address: {type: GraphQLString},
+    lat: {type: GraphQLFloat},
+    lng: {type: GraphQLFloat}
+  }),
+  interfaces: [nodeInterface]
+});
+
+var ThingToDoType = new GraphQLObjectType({
+  name: 'ThingToDo',
+  fields: () => ({
+    id: globalIdField(),
+    title: {type: GraphQLString},
+    image: {type: GraphQLString},
+    location: {
+      type: ThingToDoLocationType,
+      resolve(thingToDo, args) {
+        let id = thingToDo.locationId;
+        return _.find(locationResultsStub.ThingToDoLocation, {id:id});
+      }
+    }
+  }),
+  interfaces: [nodeInterface]
+});
+
+var Query = new GraphQLObjectType({
   name: 'Query',
   fields: () => ({
+    node: nodeField,
     nearby: {
-      type: new GraphQLList(ThingToDo),
+      type: new GraphQLList(ThingToDoType),
       args: {
-        lat: {
-          name: 'lat',
-          type: GraphQLFloat,
-        },
-        lng: {
-          name: 'lng',
-          type: GraphQLFloat,
-        }
+        lat: {type: GraphQLFloat},
+        lng: {type: GraphQLFloat}
       },
-      resolve(parent, args) {
-        return locationResultsStub.results
+      resolve(nearby, args) {
+        return locationResultsStub.ThingToDo
       }
     }
   })
 });
 
-export const Schema = new GraphQLSchema({
+export default new GraphQLSchema({
   query: Query
 });
